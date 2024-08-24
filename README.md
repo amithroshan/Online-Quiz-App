@@ -5,22 +5,18 @@ The aim of this project is to design and develop an interactive Online Quiz Syst
 Project Components:
 
 ● User Registration and Authentication:
-
   ○ Implement user registration and login functionality.
   ○ Enable users to create and manage their profiles.
   
 ● Quiz Creation and Management:
-
   ○ Develop a feature for users to create quizzes with questions and answer options.
   ○ Allow quiz creators to set time limits and other customization options.
   
 ● Quiz Library:
-
   ○ Create a library where users can browse and search for quizzes on different topics.
   ○ Enable users to save and bookmark quizzes for future reference.
   
 ● Quiz Analytics:
-
   ○ Provide detailed analytics for quiz creators to view user performance and engagement with their quizzes.
   ○ Generate reports on quiz completion rates, scores, and user feedback.● Responsive Design:
   ○ Ensure the application is accessible and user-friendly across different devices and screen sizes.
